@@ -8,19 +8,30 @@ atwani nama bo (Robot°Venom)(Robot°1616) amanji robot xzmata
 ----------------------------------------------------------------------------------------------
 ----------------------------------Command-----------------------------------------------------
 apt update
+
 apt upgrade
+
 pkg install git 
+
 pkg install python
+
 pkg install python2
+
 pip2 install requests
+
 pip2 install mechanize
+
 pkg install git
+
 git clone https://github.com/robotxvenom/venom.py.git 
 
 cd venom.py
+
 python2 Venom.py 
 
 Email:robotvenom
+
 Password:robotvenom 
+
 
 discord.gg/robot

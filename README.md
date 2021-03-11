@@ -7,11 +7,10 @@ ka he robot be owner am servera (Robot°DJ) (Robot°MrFOG) harkasek keshay habu 
 atwani nama bo (Robot°Venom)(Robot°1616) amanji robot xzmata
 ----------------------------------------------------------------------------------------------
 ----------------------------------Command-----------------------------------------------------
+
 apt update
 
 apt upgrade
-
-pkg install git 
 
 pkg install python
 
